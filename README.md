@@ -15,9 +15,9 @@ JSON Data File: Replace data.json with your JSON file containing head-to-head re
 Execute the Script: Run the provided Python script in your preferred environment (Jupyter Notebook, Python script, etc.).
 
 ## How It Works
-Data Loading: The script loads head-to-head records from a JSON file into a Pandas DataFrame.
-DataFrame Creation: An empty DataFrame is initialized to store the head-to-head records, filled by iterating through each team's data.
-Color-Coding Logic: Records are color-coded based on win ratios between teams. The gradient ranges from red (0 wins) to green (all wins).
+Data Loading: The script loads head-to-head records from a JSON file into a Pandas DataFrame. \\
+DataFrame Creation: An empty DataFrame is initialized to store the head-to-head records, filled by iterating through each team's data. \\
+Color-Coding Logic: Records are color-coded based on win ratios between teams. The gradient ranges from red (0 wins) to green (all wins). \\
 Visualization: Pandas' styling functionality applies color-coding to DataFrame cells, creating a visual representation of team performance against each other.
 
 ## Customization
