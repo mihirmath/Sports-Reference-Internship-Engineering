@@ -1,6 +1,6 @@
 # Head-to-Head Records Visualization
 
-This Python script demonstrates a method to visualize head-to-head records between teams using Pandas. The visualization creates a color-coded matrix representing team performance against each other.
+The Python script in SREngineeringIntern2024.ipynb demonstrates a method to visualize head-to-head records between teams using Pandas. The visualization creates a color-coded matrix representing team performance against each other.
 
 ## Installation
 
